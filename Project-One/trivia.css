@@ -1,0 +1,118 @@
+html{
+}
+
+header { 
+font-family: Faster One;
+font-size: 75px;
+
+}
+    
+body {
+    font-family: trebuchet ms, verdana, sans-serif;
+    background-color: #465945;
+    
+}
+
+p {
+  font-family: Megrim 
+  font-size: 18px;
+  width: 75%;
+}
+
+
+h1 {
+  font-family: Josefin Sans;
+  color: 3636363;
+  text-align: center;
+
+}
+
+#qText: {
+
+}
+
+#displayQuestionDiv: {
+  font-family: Josefin Sans;
+  font-size: 18px;
+  background-color: #636363;
+
+}
+
+.question {
+
+
+}
+
+.answers {
+
+}
+
+.answers label {  
+}
+
+#startBtn {
+
+}
+
+.quizButton {
+
+}
+
+#submitBtn { 
+
+}
+
+#quizButton {
+
+}
+
+#nextBtn {
+
+}
+
+#previousBtn {
+
+}
+
+#resultsBtn {
+	
+}
+
+
+button {
+  font-family: Megrim;
+  display: inline-block-center;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+  color: #c71585;
+  background-color: #633b52;
+  border: none;
+  color: white;
+  width: 100px;
+  height: 100px;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 50%
+}
+
+}
+
+button:hover{
+
+}
+
+
+
+grey 636363
+purple 633b52
+Pink c71585
+Asparagus 465945
+
+
+
+
+
+  
